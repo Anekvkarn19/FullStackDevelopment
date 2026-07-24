@@ -5,3 +5,6 @@ console.log("Even=",even)
 
 const square=even.map((i)=>(i*i))
 console.log("Square=",square);
+
+const sum=square.reduce((i,s)=>(i+s))
+console.log("Sum=",sum)
