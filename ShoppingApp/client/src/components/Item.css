@@ -1,0 +1,21 @@
+.item{
+    width: 400px;
+    margin-left: 40px;
+    border: 1px solid red;
+    background-color: rgb(187, 187, 234);
+
+}
+.item h3{
+    color:green;
+    margin:5px;
+    padding:5px;
+}
+.button{
+    width:100px;
+    height:40px;
+    background-color:black;
+    color:white;
+    align-items:center;
+
+
+}
